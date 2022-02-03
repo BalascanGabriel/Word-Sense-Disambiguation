@@ -1,0 +1,38 @@
+șiret,"M-am împiedicat in șiretul desfăcut al pantofului",ENG30-04200637-n
+șiret,"A fost șiret și mi-a furat portofelul",ENG30-10753546-n
+șiret,"Avea șiretul desfăcut și a căzut",ENG30-04200637-n
+șiret,"Vulpea sireata i-a furat coada ursului",ENG30-00293926-r
+șiret,"L-am ajutat sa isi lege siretul traistei peste cap si l-am trimis mai departe",ENG30-03631445-n
+lac,"Gardul a fost lăcuit pentru a rezista la umiditate",ENG30-14701143-n
+lac,"In excursie am vizitat lacul Sfanta Ana",ENG30-09328904-n
+lac,"Nu a vrut sa isi vopseasca unghiile asa ca doar le-a dat cu lac",ENG30-14991004-n
+lac,"Daca nu vei aplica lac lemnul se va crapa de la umezeala",ENG30-14701143-n
+lin,"Pasarea plutea lin pe apa lacului",ENG30-00341227-r
+lin,"Dupa ce ii culegeti strangeti strugurii in lin pentru fermentare",BILI-00000322
+lin,"Linul este plin de solzi",ENG30-01440764-n
+lin,"Mergea lin fara sa se grabeasca",ENG30-01139832-a
+lin,"Dealul are o ascensiune lina usor de traversat",ENG30-00982602-a
+toc,"A fixat ferestrele intr-un toc din lemn masiv",ENG30-03222722-n
+toc,"Tocul armei este dintr-un material captusit",ENG30-03527444-n
+toc,"Trebuie sa duc aceste incaltari la cizmar pentru a le repara tocul",ENG30-03511426-n
+pană,"La palarie purta asortata o pana de paun",ENG30-03969998-n
+pană,"Scrisul caligrafic se realiza de obicei cu pana",ENG30-04033901-n
+pană,"Pentru despicarea acelui trunchi va trebui sa folosesti o pană",ENG30-04569520-n
+pană,"Imbinarea pieselor va trebui facuta cu o pană",ENG30-03023878-n
+pană,"Ciupea coardele chitarii cu pana",ENG30-03929660-n
+pană,"La capatul fluierului se afla pana prin care se poate sufla",ENG30-04066888-n
+apel,"I-a dat un apel telefonic prietenului sau",ENG30-06272803-n
+apel,"Ascultatorul a dat un apel catre postul de radio favorit",ENG30-06273555-n
+apel,"Nu se putea descurca asa ca a apelat la ajutor",ENG30-01208597-n
+apel,"S-a facut apel in fondul procesului",ENG30-01185611-n
+apel,"Au facut apel la Primaria Capitalei",ENG30-07186828-n
+model,"Este prezentat doar un model al aplicatiei",ENG30-05890249-n
+model,"Acel model reprezinta casa de moda Gucci",ENG30-10291240-n
+model,"Profesorul a dat drept model premiantul clasei",ENG30-05925366-n
+
+
+
+
+
+
+
